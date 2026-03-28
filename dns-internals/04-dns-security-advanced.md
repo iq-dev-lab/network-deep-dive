@@ -728,6 +728,6 @@ CoreDNS가 리소스 부족 시 마지막에 Evict되도록.
 
 <div align="center">
 
-**[⬅️ 이전: DNS 캐싱과 전파](./03-dns-caching-and-propagation.md)** | **[홈으로 🏠](../README.md)** | **[다음: Chapter 6 — 로드밸런싱과 프록시 ➡️](../load-balancing-and-proxy/)**
+**[⬅️ 이전: DNS 캐싱과 전파](./03-dns-caching-and-propagation.md)** | **[홈으로 🏠](../README.md)** | **[다음: Chapter 6 — 로드밸런싱과 프록시 ➡️](../load-balancing-and-proxy/01-l4-vs-l7-load-balancer.md)**
 
 </div>

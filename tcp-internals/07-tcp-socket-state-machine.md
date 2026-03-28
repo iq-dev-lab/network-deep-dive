@@ -826,6 +826,6 @@ Server도 동일한 CLOSING 거침
 
 <div align="center">
 
-**[⬅️ 이전: TCP vs UDP](./06-tcp-vs-udp.md)** | **[홈으로 🏠](../README.md)** | **[다음: Chapter 3 — HTTP 완전 분해 ➡️](../http-internals/)**
+**[⬅️ 이전: TCP vs UDP](./06-tcp-vs-udp.md)** | **[홈으로 🏠](../README.md)** | **[다음: Chapter 3 — HTTP 완전 분해 ➡️](../http-internals/01-http1-internals.md)**
 
 </div>

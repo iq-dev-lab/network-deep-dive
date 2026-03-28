@@ -790,6 +790,6 @@ public List<Product> getProductsFallback(Exception ex) {
 
 <div align="center">
 
-**[⬅️ 이전: Rate Limiting](./04-rate-limiting-algorithms.md)** | **[홈으로 🏠](../README.md)** | **[다음: Chapter 7 — 컨테이너와 네트워크 실습 ➡️](../container-and-network-practice/)**
+**[⬅️ 이전: Rate Limiting](./04-rate-limiting-algorithms.md)** | **[홈으로 🏠](../README.md)** | **[다음: Chapter 7 — 컨테이너와 네트워크 실습 ➡️](../container-and-network-practice/01-docker-networking.md)**
 
 </div>

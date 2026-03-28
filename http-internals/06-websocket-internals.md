@@ -838,6 +838,6 @@ sysctl -w net.ipv4.tcp_max_syn_backlog=65535
 
 <div align="center">
 
-**[⬅️ 이전: HTTP 메서드와 상태 코드](./05-http-methods-status-codes.md)** | **[홈으로 🏠](../README.md)** | **[다음: Chapter 4 — TLS/HTTPS ➡️](../tls-https-internals/)**
+**[⬅️ 이전: HTTP 메서드와 상태 코드](./05-http-methods-status-codes.md)** | **[홈으로 🏠](../README.md)** | **[다음: Chapter 4 — TLS/HTTPS ➡️](../tls-https-internals/01-crypto-basics.md)**
 
 </div>

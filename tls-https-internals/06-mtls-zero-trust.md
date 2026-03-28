@@ -766,6 +766,6 @@ SPIFFE ID 기반으로 즉시 차단 (인증서 폐기 없이).
 
 <div align="center">
 
-**[⬅️ 이전: HTTPS 성능](./05-https-performance.md)** | **[홈으로 🏠](../README.md)** | **[다음: Chapter 5 — DNS ➡️](../dns-internals/)**
+**[⬅️ 이전: HTTPS 성능](./05-https-performance.md)** | **[홈으로 🏠](../README.md)** | **[다음: Chapter 5 — DNS ➡️](../dns-internals/01-dns-resolution-flow.md)**
 
 </div>
